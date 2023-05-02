@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/serbian/static/css/main.da64c87f.css",
-    "main.js": "/serbian/static/js/main.94bc2ace.js",
+    "main.css": "/serbian/static/css/main.4bd898e8.css",
+    "main.js": "/serbian/static/js/main.341348c0.js",
     "index.html": "/serbian/index.html",
-    "main.da64c87f.css.map": "/serbian/static/css/main.da64c87f.css.map",
-    "main.94bc2ace.js.map": "/serbian/static/js/main.94bc2ace.js.map"
+    "main.4bd898e8.css.map": "/serbian/static/css/main.4bd898e8.css.map",
+    "main.341348c0.js.map": "/serbian/static/js/main.341348c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.da64c87f.css",
-    "static/js/main.94bc2ace.js"
+    "static/css/main.4bd898e8.css",
+    "static/js/main.341348c0.js"
   ]
 }
